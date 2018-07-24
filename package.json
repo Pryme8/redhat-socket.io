@@ -7,16 +7,8 @@
     "express": "^4.15.2",
     "socket.io": "^1.7.3"
   },
-  "engine": {
-    "node": "*",
-    "npm": "*"
-  },
   "scripts": {
     "start": "node app.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Pryme8/redhat-socket.io.git"
   },
   "author": "Andrew V Butt Sr. <Pryme8@gmail.com>"
 }
