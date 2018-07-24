@@ -7,7 +7,16 @@
     "express": "^4.15.2",
     "socket.io": "^1.7.3"
   },
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
   "scripts": {
     "start": "node app.js"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/sclorg/nodejs-ex.git"
+  },
+  "author": "Andrew V Butt Sr. <Pryme8@gmail.com>",
 }
