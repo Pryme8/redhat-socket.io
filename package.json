@@ -9,6 +9,5 @@
   },
   "scripts": {
     "start": "node app.js"
-  },
-  "author": "Andrew V Butt Sr. <Pryme8@gmail.com>"
+  }
 }
