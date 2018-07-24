@@ -8,14 +8,5 @@
   },
   "scripts": {
     "start": "node app.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:Pryme8/redhat-socket.io.git"
-  },
-  "files": [
-    "package.json",
-    "app.js",
-    "public"
-  ],
+  }
 }
